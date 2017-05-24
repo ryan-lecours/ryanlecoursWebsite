@@ -1,0 +1,29 @@
+
+#title{
+  width: 100%;
+  background-color: blue;
+  align-content: center;
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+.skills{
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+}
+
+#skillOne{
+  background-color: Green;
+}
+
+#skillTwo{
+  background-color: Yellow;
+}
+
+#skillThree{
+  background-color: Pink;
+}
