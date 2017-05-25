@@ -6,9 +6,10 @@ body{
 
 }
 #navbar{
-  margin-top: 0;
+  height: 17%;
+  margin-top: -3%;
   width: 100%;
-  background-color: blue;
+  background-color: grey;
 
 
 
@@ -16,56 +17,69 @@ body{
 }
 
 #backgroundImg{
+  margin-left: 10%;
   margin-top: 5%;
   position: absolute;
 
 
       width: 80%;
       height: auto%;
-      margin:0;
+
       padding:0;
       z-index: -1;
 }
 
 #name{
+  margin-top: 3%;
+  padding-top: 1%;
   position: relative;
   text-align: center;
-  width: 15%;
+  width: 12%;
   padding-left: 1%;
-  background: white;
+
   height: 100%;
 }
 
 h1{
 
-  text-align: left;
+  text-align: center;
 
-  color: red;
 
 
 
     z-index: 2;
 }
 
+#line{
+  margin-top: -4.5%;
+  margin-left: 14%;
+  margin-right: 0;
+  margin-bottom: 0%;
+  height: 90px;
+  width: 3px;
+  background-color: black;
+  z-index: 3;
+}
+
 #FSWD{
-  margin-top: -0.5%;
-  margin-left: 17%;
+  margin-top: -1%;
+  margin-left: 15%;
 }
 
 
 
 #photographer{
 
-    margin-top: -5%;
-    margin-left: 17%;
-    padding-top: 1%;
+  margin-top: -4.5%;
+    margin-left: 15%;
+
 
 }
 
 #videographer{
-  margin-left: 17%;
-  padding-bottom: 2%;
-  margin-top: -0.5%;
+  margin-left: 15%;
+  margin-top: -1%;
+  margin-bottom: 1.5%;
 }
 
 .skills{
