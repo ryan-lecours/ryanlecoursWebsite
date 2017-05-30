@@ -16,8 +16,9 @@ body{
 }
 
 #mainNav{
-  margin-bottom: 45px;
+  margin-bottom: 100px;
   width: 100%;
+  height: 50px;
 }
 
 #menuChoices{
@@ -30,29 +31,4 @@ body{
 
   position: relative;
 
-}
-
-.skills{
-  width: 33%;
-  margin-left: 0.5%;
-  display: inline-block;
-  text-align: center;
-
-}
-
-#skillOne{
-  background-color: Green;
-  position: fixed;
-}
-
-#skillTwo{
-  background-color: Yellow;
-  margin-left: 33%;
-position: fixed;
-}
-
-#skillThree{
-  background-color: Pink;
-  margin-left: 66%;
-  position: fixed;
 }
